@@ -10,8 +10,8 @@ I’m passionate about continuous learning. Whether it's mastering a new framewo
 
 If you’re looking for a curious, self-motivated, and open-minded developer who’s ready to contribute to your next big idea, I’d love to chat! Feel free to reach out, whether it's to collaborate, brainstorm, or just exchange ideas. 
 
-<div> 
-  <a href="https://www.linkedin.com/in/rafaelframil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<a href="https://www.linkedin.com/in/rafaelframil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <a href="https://rafaelframil.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=undertale&logoColor=red" alt="Personal website"/>
