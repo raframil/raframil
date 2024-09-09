@@ -14,7 +14,7 @@ If you’re looking for a curious, self-motivated, and open-minded developer who
   <a href="https://www.linkedin.com/in/rafaelframil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <a href="https://rafaelframil.com" target="_blank">
-    <img src="[https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=undertale&logoColor=red)" alt="Personal website"/>
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=undertale&logoColor=red" alt="Personal website"/>
 </a>
 
 <!--
