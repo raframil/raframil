@@ -11,7 +11,7 @@ I’m passionate about continuous learning. Whether it's mastering a new framewo
 If you’re looking for a curious, self-motivated, and open-minded developer who’s ready to contribute to your next big idea, I’d love to chat! Feel free to reach out, whether it's to collaborate, brainstorm, or just exchange ideas. 
 
 
-<a href="https://www.linkedin.com/in/rafaelframil/" target="_blank">
+<a href="https://www.linkedin.com/in/rafaelframil/" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 
